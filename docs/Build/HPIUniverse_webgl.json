@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "DataViz20182",
+"dataUrl": "HPIUniverse_webgl.data.unityweb",
+"wasmCodeUrl": "HPIUniverse_webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "HPIUniverse_webgl.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
